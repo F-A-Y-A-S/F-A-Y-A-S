@@ -117,19 +117,19 @@
 
 
 <p align="center">
-  <a href="https://github.com/FAYAS"> <img  alt="FAYAS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SafwanGanz?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+  <a href="https://github.com/FAYAS"> <img  alt="FAYAS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FAYAS?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
 
 
 <p align="center">
-  <a href="https://github.com/SafwanGanz">
+  <a href="https://github.com/FAYAS">
     <img src="https://streak-stats.demolab.com?user=F-A-Y-A-S&theme=dark&background=000000" alt="GitHub Streak">
   </a>
 </p>
 
 
  <p align="center">
-    <a href="https://github.com/SafwanGanz">
+    <a href="https://github.com/FAYAS">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=F-A-Y-A-S&theme=redical" alt="Stats">
     </a>
 </p>
@@ -138,7 +138,7 @@
 <p align="center"><a href="https://github.com/FAYAS"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-A-Y-A-S&theme=radical&layout=compact"></a></p> 
 
 <div align=center>
-  <a href="https://github.com/SafwanGanz" title="Go to Source">
+  <a href="https://github.com/F-A-Y-A-S" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=F-A-Y-A-S&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
