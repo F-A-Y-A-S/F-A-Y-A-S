@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-<a href="https://instagram.com/iblamesparky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="headless_angels.exo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the.arthur._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="headless_angels.exo" height="30" width="40" /></a>
 <a href="https://wa.me/917012984396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
 </p>
 
