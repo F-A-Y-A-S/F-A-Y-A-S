@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <a href="https://wa.me/917012074386"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
+  <a href="https://wa.me/917994328116"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
   <a href="https://youtube.com/"><img src="https://cdn-icons-png.flaticon.com/512/124/124015.png" alt="Website Icon" width="30" height="30"></a>
 </p>
 
