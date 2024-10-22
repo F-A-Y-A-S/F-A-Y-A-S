@@ -1,11 +1,9 @@
-![My card name](https://cardivo.vercel.app/api?name=FAYAS+HERE%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/176680264?v=4s=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=the.arthur._&github=F-A-Y-A-S&")
-</p>
-</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=F-A-Y-A-S&label=Visitors%20count&color=10d9c3&style=plastic" alt="F-A-Y-A-S" /> </p>
 </br>
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=HEY+BUDDY;I'M+HERE"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=HEY+BUDDY;FAYAS+HERE!"
             alt="Typing SVG"
         /
         >
@@ -22,7 +20,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/the.arthur._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="headless_angels.exo" height="30" width="40" /></a>
-<a href="https://wa.me/917012984396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
+<a href="https://wa.me/917994328116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
 </p>
 
     
@@ -121,7 +119,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/FAYAS"> <img  alt="FAYAS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FAYAS?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+  <a href="https://github.com/FAYAS"> <img  alt="FAYAS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FAYASHERE?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
 
 
