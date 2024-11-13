@@ -7,11 +7,22 @@
             alt="Typing SVG"
         /
         >
-<p align="center">
-<a href="https://www.instagram.com/fayas.hub" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="headless_angels.exo" height="50" width="50" /></a>
-<a href="https://wa.me/917994328116" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="avo" height="50" width="50" /></a>
-   </p
-<h2 align="center"></h2>
+<h3 align="left">About Me</h3>
+<p align="left"></p>
+
+- 🌱 I’m currently learning Data Analysing & 3D Modaling
+- 🔭 I’m currently Studing Machine learning
+- 💬 Ask me about **Python,Software Developing,3D Animation**
+- 📫 How to reach me **mhdfayasss@gmail.com**
+- ⚡ Interest **Game Creation**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thousi_731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thousi_731" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mhd-fayas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhd-fayas" height="30" width="40" /></a>
+<a href="https://instagram.com/fayas.hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fayas.hub" height="30" width="40" /></a>
+</p>
+
 
 
 
