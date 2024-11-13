@@ -76,32 +76,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
   <img width="12" />
-  
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="vercel logo"  />
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="vercel logo"  />
-  <img src="https://skillicons.dev/icons?i=scss" height="40" alt="vercel logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="vercel logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="vercel logo"  />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="vercel logo"  />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="vercel logo"  />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="vercel logo"  />  
-<img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="vercel logo"  />
-<img src="https://skillicons.dev/icons?i=flutter" height="40" alt="vercel logo"  />
+    <img width="12" />
 <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="vercel logo"  />
+    <img width="12" />
 <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="vercel logo"  />
-<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="vercel logo"  />
 
 
-###
-
+####
 
 
 <br>
