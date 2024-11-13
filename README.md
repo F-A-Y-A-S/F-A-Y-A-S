@@ -6,16 +6,15 @@
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=HEY+BUDDY;FAYAS+HERE!"
             alt="Typing SVG"
         /
-        >
+</div>
+
 <h3 align="left">About Me</h3>
-<p align="left"></p>
-
-- 🌱 I’m currently learning Data Analysing & 3D Modaling
-- 🔭 I’m currently Studing Machine learning
-- 💬 Ask me about **Python,Software Developing,3D Animation**
-- 📫 How to reach me **mhdfayasss@gmail.com**
-- ⚡ Interest **Game Creation**
-
+<p align="left">
+ 🌱 I’m currently learning Data Analysis & 3D Modeling <br>
+ 🔭 I’m currently studying Machine Learning<br>  💬 Ask me about: Python, Software Development, 3D Animation <br>
+ 📫 How to reach me: mhdfayasss@gmail.com <br>
+ ⚡ Interest: Game Creation
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thousi_731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thousi_731" height="30" width="40" /></a>
