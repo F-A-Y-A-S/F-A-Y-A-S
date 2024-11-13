@@ -9,7 +9,7 @@
 </div>
  <h3 align="left">About Me</h3>
 <p align="left">
-
+ 
 - 🌱 I’m currently learning Data Analysing & 3D Modaling
 - 🔭 I’m currently Studing Machine learning
 - 💬 Ask me about ***Python,Software Developing,3D Animation***
@@ -18,7 +18,6 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thousi_731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thousi_731" height="30" width="40" /></a>
 <a href="[https://linkedin.com/in/mhd-fayas](https://www.linkedin.com/in/mhd-fayas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhd-fayas" height="30" width="40" /></a>
 <a href="https://instagram.com/fayas.hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fayas.hub" height="30" width="40" /></a>
 </p>
