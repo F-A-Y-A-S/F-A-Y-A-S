@@ -7,6 +7,7 @@
             alt="Typing SVG"
         /
 </div>
+
  <h3 align="left">About Me</>
 <p align="left">
  
@@ -15,6 +16,7 @@
 - 💬 Ask me about ***Python,Software Developing,3D Animation***
 - 📫 How to reach me ***mhdfayasss@gmail.com***
 - ⚡ Interest ***Game Creation***
+<br>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
