@@ -20,6 +20,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://wa.me/917994328116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mhd-fayas(https://www.linkedin.com/in/mhd-fayas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhd-fayas" height="30" width="40" /></a>
 <a href="https://instagram.com/fayas.hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fayas.hub" height="30" width="40" /></a>
 </p>
