@@ -18,16 +18,15 @@
 <br>
 </p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
- <div align="left">
-  <a href=""https://wa.me/917994328116"" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+<p align="left"> 
+  <a href="mailto:mhdfayasss@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href=""https://linkedin.com/in/mhd-fayas(https://www.linkedin.com/in/mhd-fayas"" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <a href="https://wa.me/917994328116" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a href=""https://instagram.com/fayas.hub"" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  <a href="https://instagram.com/fayas.here_" target="_blank">
+     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
