@@ -11,24 +11,31 @@
  <h3 align="left">About Me</>
 <p align="left">
  
-- 🌱 I’m currently learning Data Analysing & 3D Modaling
-- 🔭 I’m currently Studing Machine learning
-- 💬 Ask me about ***Python,Software Developing,3D Animation***
+- 🔭 I’m currently Studing Machine learning & Robotics
+- 💬 Ask me about ***Python,3D Modeling***
 - 📫 How to reach me ***mhdfayasss@gmail.com***
-- ⚡ Interest ***Game Creation***
+- ⚡ interested to  ***Robotics***
 <br>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://wa.me/917994328116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mhd-fayas(https://www.linkedin.com/in/mhd-fayas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhd-fayas" height="30" width="40" /></a>
-<a href="https://instagram.com/fayas.hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fayas.hub" height="30" width="40" /></a>
-</p>
+ <div align="left">
+  <a href=""https://wa.me/917994328116"" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href=""https://linkedin.com/in/mhd-fayas(https://www.linkedin.com/in/mhd-fayas"" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href=""https://instagram.com/fayas.hub"" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 <br><br>
-
 
 ###
 
